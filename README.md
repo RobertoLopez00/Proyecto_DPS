@@ -13,7 +13,6 @@ Este es un proyecto de e-commerce desarrollado como parte de la cátedra de la m
 
 
 ## Características
-
 - Autenticación de usuarios con Firebase.
 - Listado de productos.
 - Carrito de compras con opciones para agregar, eliminar y vaciar productos.
@@ -23,7 +22,7 @@ Este es un proyecto de e-commerce desarrollado como parte de la cátedra de la m
 ## Integrantes del Equipo
 | Nombre             | Carnet                      |
 |--------------------|-------------------------|
-| *José Roberto Doradea Herrera 1*   | DH211056 |
+| *José Roberto Doradea Herrera*   | DH211056 |
 | *Carlos Alexander Alvarenga Claros*   | AC211104 |
 | *Roberto Rodrigo López Alvarado*   | LA203000 |
 | *Marcelo Yaser Andrade Garza*   | AG21065 |
@@ -32,12 +31,24 @@ Este es un proyecto de e-commerce desarrollado como parte de la cátedra de la m
 ##Manual de usuarios 
 -Link al manual de usuarios:
 https://www.canva.com/design/DAGT8mJSVyY/nsW0b8py9JU9j5rYRgQZ7Q/edit?utm_content=DAGT8mJSVyY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ##Manual técnico
 -Link al manual técnico:
 -https://www.canva.com/design/DAGT88y7Uuk/XTrDS2yGn-suR5K_yJUEqQ/edit?utm_content=DAGT88y7Uuk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-##Trello
--Trello: 
+
+##Trello 
 -https://trello.com/b/ILd108Jh/dps-ecommerce-tablero
+
+##LICENCIAS CREATIVE COMMONS*
+      
+      Proyecto DPS © 2024 por Grupo#3 se distribuye bajo una licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+      
+      -Licencia del tipo (Reconocimiento - No Comercial - Compartir Igual).
+      
+      -Esta licencia no permite un uso comercial de la obra original ni de las posibles obras derivadas. Además, la distribución de estas obras derivadas se debe hacer con una licencia igual a la que regula la obra original.
+
+ ![image](https://github.com/Carlos-Alvarenga721/Proyecto_LIS/assets/79995182/068221fb-ed26-4ab1-9d47-fcd929ff84a8)
+ 
 ##Docente 
 -Ing. Alexander Alberto Sigüenza 
 ##Fecha de Entrega
