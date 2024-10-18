@@ -1,6 +1,7 @@
 # E-Commerce Project
 
-Este es un proyecto de e-commerce desarrollado como parte de la cátedra de la materia *DPS*. Utiliza React y Next.js con TypeScript, incluye autenticación utilizando Firebase y está containerizado usando Docker.
+Este es un proyecto de e-commerce desarrollado como parte de la cátedra de la materia *DPS*. Utiliza React y Expo con TypeScript, asi mismo las rutas se decidio utilizar expo-router para mayor facilidad, incluye autenticación utilizando Firebase y está containerizado usando Docker para la parte del BackEnd.
+
 ![image](https://user-images.githubusercontent.com/79995182/188522186-37932faa-4194-4c29-b288-f1530fa68e41.png)
 
 ## Tabla de Contenidos
