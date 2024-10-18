@@ -28,18 +28,18 @@ Este es un proyecto de e-commerce desarrollado como parte de la cátedra de la m
 | *Marcelo Yaser Andrade Garza*   | AG21065 |
 | *Ana Yoselin Gil Torres*   | GT182673 |
 
-##Manual de usuarios 
+## Manual de usuarios 
 -Link al manual de usuarios:
 https://www.canva.com/design/DAGT8mJSVyY/nsW0b8py9JU9j5rYRgQZ7Q/edit?utm_content=DAGT8mJSVyY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-##Manual técnico
+## Manual técnico
 -Link al manual técnico:
 -https://www.canva.com/design/DAGT88y7Uuk/XTrDS2yGn-suR5K_yJUEqQ/edit?utm_content=DAGT88y7Uuk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-##Trello 
+## Trello 
 -https://trello.com/b/ILd108Jh/dps-ecommerce-tablero
 
-##LICENCIAS CREATIVE COMMONS*
+## Licencias creative commons*
       
       Proyecto DPS © 2024 por Grupo#3 se distribuye bajo una licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
       
@@ -49,7 +49,8 @@ https://www.canva.com/design/DAGT8mJSVyY/nsW0b8py9JU9j5rYRgQZ7Q/edit?utm_content
 
  ![image](https://github.com/Carlos-Alvarenga721/Proyecto_LIS/assets/79995182/068221fb-ed26-4ab1-9d47-fcd929ff84a8)
  
-##Docente 
+## Docente 
 -Ing. Alexander Alberto Sigüenza 
-##Fecha de Entrega
--Viernes 19 de Octubre del 2024
+
+## Fecha de Entrega
+-Viernes 18 de Octubre del 2024
