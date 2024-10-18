@@ -19,7 +19,7 @@ const PrincipalLogin= () => {
       />
       
       {/* Welcome Text */}
-      <Text style={styles.welcomeText}>Welcome to our store</Text>
+      <Text style={styles.welcomeText}>Welcome to our newest E-commerce</Text>
       
       {/* Sign In Button */}
       <Link href="/(login)/signIn" asChild>
@@ -43,29 +43,30 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#fff',
+    backgroundColor: '#f0f0f0', // Cambiado de #fff a #f0f0f0
   },
   logo: {
-    width: 100, // adjust as needed
-    height: 100, // adjust as needed
+    width: 150, // Ajustado de 100 a 150
+    height: 150, // Ajustado de 100 a 150
     marginBottom: 40,
   },
   welcomeText: {
-    fontSize: 24,
+    fontSize: 28, // Aumentado de 24 a 28
     fontWeight: 'bold',
     marginBottom: 40,
     textAlign: 'center',
+    color: '#333', // Añadido color
   },
   button: {
-    backgroundColor: '#DB4444', // red color
+    backgroundColor: '#007AFF', // Cambiado de #DB4444 a #007AFF
     paddingVertical: 15,
     paddingHorizontal: 40,
-    borderRadius: 30,
+    borderRadius: 8, // Cambiado de 30 a 8
     marginBottom: 20,
     width: '80%',
     alignItems: 'center',
     borderWidth: 1,
-    borderColor: '#DB4444',
+    borderColor: '#007AFF', // Cambiado de #DB4444 a #007AFF
   },
   buttonText: {
     color: '#fff',

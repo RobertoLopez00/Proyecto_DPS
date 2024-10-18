@@ -126,11 +126,10 @@ const LoginScreen = () => {
     </View>
   );
 };
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#f0f0f0', // Cambiado de #fff a #f0f0f0
     justifyContent: 'center',
     padding: 20,
   },
@@ -142,33 +141,36 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   title: {
-    fontSize: 24,
+    fontSize: 28, // Aumentado de 24 a 28
     fontWeight: 'bold',
     textAlign: 'center',
     marginBottom: 10,
+    color: '#333', // Añadido color
   },
   subtitle: {
-    fontSize: 16,
-    color: '#999',
+    fontSize: 18, // Aumentado de 16 a 18
+    color: '#666', // Cambiado de #999 a #666
     textAlign: 'center',
     marginBottom: 20,
   },
   input: {
     borderWidth: 1,
-    borderColor: '#ddd',
-    borderRadius: 10,
+    borderColor: '#ccc', // Cambiado de #ddd a #ccc
+    borderRadius: 8, // Cambiado de 10 a 8
     padding: 15,
     marginBottom: 10,
+    backgroundColor: '#fff', // Añadido color de fondo
   },
   passwordContainer: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
     borderWidth: 1,
-    borderColor: '#ddd',
-    borderRadius: 10,
+    borderColor: '#ccc', // Cambiado de #ddd a #ccc
+    borderRadius: 8, // Cambiado de 10 a 8
     padding: 15,
     marginBottom: 10,
+    backgroundColor: '#fff', // Añadido color de fondo
   },
   showPassword: {
     color: '#007AFF',
@@ -179,15 +181,15 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   loginButton: {
-    backgroundColor: '#DB4444',
-    borderRadius: 10,
+    backgroundColor: '#007AFF', // Cambiado de #DB4444 a #007AFF
+    borderRadius: 8, // Cambiado de 10 a 8
     padding: 15,
     alignItems: 'center',
     marginBottom: 20,
   },
   loginButtonText: {
     color: '#fff',
-    fontSize: 16,
+    fontSize: 18, // Aumentado de 16 a 18
     fontWeight: 'bold',
   },
   signUpContainer: {
@@ -196,7 +198,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   signUpText: {
-    color: '#DB4444',
+    color: '#007AFF', // Cambiado de #DB4444 a #007AFF
     fontWeight: 'bold',
   },
   errorText: {

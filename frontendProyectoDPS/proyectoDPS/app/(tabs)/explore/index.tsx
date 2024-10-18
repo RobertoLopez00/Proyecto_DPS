@@ -51,28 +51,32 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: '#f0f0f0', // Cambiado de #fff a #f0f0f0
   },
   title: {
     fontSize: 24,
     fontWeight: 'bold',
-    marginVertical: 10,
+    marginVertical: 20, // Aumentado de 10 a 20
+    color: '#333', // Añadido color
   },
   categoriesList: {
     width: '90%',
     paddingVertical: 10,
     backgroundColor: '#fff',
+    borderRadius: 10, // Añadido borde redondeado
+    padding: 10, // Añadido padding
   },
   categoriesListContainer: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     flexWrap: 'wrap',
-    width: '90%',
+    width: '100%', // Cambiado de 90% a 100%
   },
   category: {
     alignItems: 'center',
     borderWidth: 1,
-    backgroundColor: '#fae3e3',
-    borderColor: '#DB4444',
+    backgroundColor: '#e0f7fa', // Cambiado de #fae3e3 a #e0f7fa
+    borderColor: '#00796b', // Cambiado de #DB4444 a #00796b
     borderRadius: 20,
     width: 150,
     marginVertical: 10,
@@ -82,12 +86,13 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   categoryImage: {
-    width: 120,
-    height: 120,
+    width: 100, // Reducido de 120 a 100
+    height: 100, // Reducido de 120 a 100
   },
   categoryText: {
     marginTop: 10,
     fontSize: 16,
     fontWeight: 'bold',
+    color: '#00796b', // Añadido color
   },
 });

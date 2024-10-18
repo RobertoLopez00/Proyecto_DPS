@@ -109,7 +109,7 @@ const styles = StyleSheet.create({
   },
   productImage: {
     width: '100%',
-    height: 300,
+    height: 200, // Reducido de 300 a 200
     resizeMode: 'contain',
   },
   productTitleContainer: {
@@ -150,7 +150,6 @@ const styles = StyleSheet.create({
     fontSize: 18,
     marginHorizontal: 10,
     color: '#21d50c',
-
   },
   productDetailContainer: {
   },
@@ -163,9 +162,8 @@ const styles = StyleSheet.create({
     color: '#666',
     marginTop: 5,
   },
-  
   buttons: {
-    backgroundColor: '#ff3d00',
+    backgroundColor: '#007AFF', // Cambiado de #ff3d00 a #007AFF
     padding: 15,
     borderRadius: 5,
     alignItems: 'center',
@@ -180,5 +178,4 @@ const styles = StyleSheet.create({
     fontSize: 22,
   },
 });
-
 export default ProductScreen;
