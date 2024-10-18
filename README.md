@@ -44,7 +44,7 @@ https://www.canva.com/design/DAGT8mJSVyY/nsW0b8py9JU9j5rYRgQZ7Q/edit?utm_content
 ## Trello 
 -https://trello.com/b/ILd108Jh/dps-ecommerce-tablero
 
-## Licencias creative commons*
+## Licencias creative commons
       
       Proyecto DPS © 2024 por Grupo#3 se distribuye bajo una licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
       
