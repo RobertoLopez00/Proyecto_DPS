@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "name": "proyectoDPS",
+    "slug": "proyectoDPS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "statusBar": {
+      "style": "dark",
+      "backgroundColor": "transparent"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cruzm224.proyectoDPS"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.cruzm224.proyectoDPS"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./assets/fonts/Poppins-Regular.ttf"
+          ]
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "84a22fc7-6e8f-46b6-8fdd-2458c4b5df82"
+      }
+    },
+    "owner": "proyecto_dps"
+  }
+}
