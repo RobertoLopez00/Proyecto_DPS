@@ -9,7 +9,11 @@ Este es un proyecto de e-commerce desarrollado como parte de la cátedra de la m
 - [Integrantes del Equipo](#integrantes-del-equipo)
 - [Manual de Usuarios](#manual-de-usuario)
 - [Manual Técnico](#manual-tecnico)
--[trello](#trello)
+- [trello](#trello)
+- [Licencias creative commons](#Licencias-creative-commons)
+- [Docente](#Docente)
+- [Fecha de Entrega](#Fecha-de-Entrega)
+ 
 
 
 ## Características
